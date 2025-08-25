@@ -1,3 +1,13 @@
+libnginx-mod-rtmp (1:1.2.2+dfsg-6) unstable; urgency=medium
+
+  * d/control: update my email to janmojzis@debian.org
+  * d/copyright: update my email to janmojzis@debian.org
+  * d/control: bump Standards-Version: 4.7.2, no changes
+  * d/copyright: bump debian/* copyright year
+  * d/watch: use more generic template
+
+ -- Jan Mojžíš <janmojzis@debian.org>  Fri, 11 Apr 2025 14:27:04 +0200
+
 libnginx-mod-rtmp (1:1.2.2+dfsg-5) unstable; urgency=medium
 
   * d/control: remove Build-Depends nginx-abi-1.24.0-1
